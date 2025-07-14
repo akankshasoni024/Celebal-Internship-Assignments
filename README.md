@@ -6,16 +6,16 @@ This repo contains multiple modules and hands-on practice tasks built using Node
 
 📚 Directory Structure 
 
-NodeJs-A1/ – Basic HTTP server and HTML file serving
-NodeJs-A2/ – File manager using Node.js fs module
-NodeJs-A3/ – Callback to Promise refactoring and practice
-NodeJs-A4/ – Simple Express server with basic routing
-NodeJs-A5/ – Express CRUD app with routes and models
-NodeJs-A6/ – User API using Express with dummy data
-NodeJs-A7/ – JWT Authentication with token middleware
-NodeJs-A8/ – Advanced Express App with file upload and weather API integration
-FSModule/ – Practice with Node.js React Weather & File Upload App
-Practice/ – Miscellaneous practice scripts (events, os, utilities)
+NodeJs-A1/ – Basic HTTP server and HTML file serving  
+NodeJs-A2/ – File manager using Node.js fs module  
+NodeJs-A3/ – Callback to Promise refactoring and practice  
+NodeJs-A4/ – Simple Express server with basic routing  
+NodeJs-A5/ – Express CRUD app with routes and models  
+NodeJs-A6/ – User API using Express with dummy data  
+NodeJs-A7/ – JWT Authentication with token middleware  
+NodeJs-A8/ – Advanced Express App with file upload and weather API integration  
+FSModule/ – Practice with Node.js React Weather & File Upload App  
+Practice/ – Miscellaneous practice scripts (events, os, utilities)   
 
 
 #### 🛠️ Tech Stack:
